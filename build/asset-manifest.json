@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a9f0b288.css",
+    "main.js": "./static/js/main.375c19e5.js",
+    "static/media/full-dofus.jpg": "./static/media/full-dofus.fb063a8da55eeb599a61.jpg",
+    "static/media/loaderGif.gif": "./static/media/loaderGif.ece48b522b0fd1593554.gif",
+    "static/media/goibendouma-logo.png": "./static/media/goibendouma-logo.2979152e3c0bbf9972fb.png",
+    "static/media/dofus-exchange.jpg": "./static/media/dofus-exchange.f244eb4c40116c1a1a43.jpg",
+    "static/media/payeer.png": "./static/media/payeer.85a1d3f1db6fb5bf8753.png",
+    "index.html": "./index.html",
+    "main.a9f0b288.css.map": "./static/css/main.a9f0b288.css.map",
+    "main.375c19e5.js.map": "./static/js/main.375c19e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f0b288.css",
+    "static/js/main.375c19e5.js"
+  ]
+}
